@@ -16,3 +16,7 @@
 ● pkg install git
 
 ● git clone https://github.com/THEOTHERSIDESEC/pubg-phishing
+
+● cd pubg-phishing
+
+● bash phish.sh
